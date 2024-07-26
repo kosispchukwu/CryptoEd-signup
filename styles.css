@@ -1,0 +1,9 @@
+body{
+    background-color: #f9f9f9;
+}
+.body-container{
+    border: 3px solid #ff9211;
+    background-image: url(/Signup-Student-teacher/Images/rectangle.svg);
+    width: 100px;
+    height: 100px;
+}
